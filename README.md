@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0506-relative-ranks) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0506-relative-ranks) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -82,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0825-friends-of-appropriate-ages](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0825-friends-of-appropriate-ages) |
 ## Matrix
 |  |
