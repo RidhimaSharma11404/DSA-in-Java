@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0506-relative-ranks) |
+| [0825-friends-of-appropriate-ages](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0825-friends-of-appropriate-ages) |
 | [0973-k-closest-points-to-origin](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1046-last-stone-weight) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0506-relative-ranks) |
+| [0825-friends-of-appropriate-ages](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0825-friends-of-appropriate-ages) |
 | [0973-k-closest-points-to-origin](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0825-friends-of-appropriate-ages](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0825-friends-of-appropriate-ages) |
 ## Binary Tree
 |  |
 | ------- |
@@ -76,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
+## Two Pointers
+|  |
+| ------- |
+| [0825-friends-of-appropriate-ages](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0825-friends-of-appropriate-ages) |
 <!---LeetCode Topics End-->
