@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
@@ -19,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
