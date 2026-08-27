@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
