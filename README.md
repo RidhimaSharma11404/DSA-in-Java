@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0101-symmetric-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0101-symmetric-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -118,9 +120,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
