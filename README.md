@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -122,9 +124,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
