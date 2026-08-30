@@ -21,6 +21,7 @@
 | [0518-coin-change-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0746-min-cost-climbing-stairs) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0746-min-cost-climbing-stairs) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Math
 |  |
@@ -64,6 +66,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0064-minimum-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Greedy
 |  |
 | ------- |
