@@ -35,6 +35,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0746-min-cost-climbing-stairs) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -62,4 +63,5 @@
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0516-longest-palindromic-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 <!---LeetCode Topics End-->
