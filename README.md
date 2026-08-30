@@ -16,6 +16,7 @@
 | [0213-house-robber-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -38,6 +39,7 @@
 | [0213-house-robber-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0583-delete-operation-for-two-strings) |
@@ -100,10 +102,15 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0518-coin-change-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
