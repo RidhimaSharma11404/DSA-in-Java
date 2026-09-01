@@ -23,6 +23,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0518-coin-change-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0860-lemonade-change) |
@@ -165,4 +166,16 @@
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1029-two-city-scheduling) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
