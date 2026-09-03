@@ -38,6 +38,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1029-two-city-scheduling) |
+| [1048-longest-string-chain](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -69,6 +70,7 @@
 | [0678-valid-parenthesis-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0746-min-cost-climbing-stairs) |
+| [1048-longest-string-chain](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1048-longest-string-chain) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Math
@@ -121,6 +123,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0678-valid-parenthesis-string) |
+| [1048-longest-string-chain](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1048-longest-string-chain) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Longest Common Subsequence
@@ -134,6 +137,7 @@
 | [0283-move-zeroes](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0881-boats-to-save-people) |
+| [1048-longest-string-chain](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1048-longest-string-chain) |
 ## Sorting
 |  |
 | ------- |
@@ -144,6 +148,7 @@
 | [0881-boats-to-save-people](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1029-two-city-scheduling) |
+| [1048-longest-string-chain](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1048-longest-string-chain) |
 | [1710-maximum-units-on-a-truck](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1710-maximum-units-on-a-truck) |
 ## Quicksort
 |  |
@@ -223,6 +228,7 @@
 | [0904-fruit-into-baskets](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Counting
