@@ -43,6 +43,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1710-maximum-units-on-a-truck](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1710-maximum-units-on-a-truck) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0062-unique-paths](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1248-count-number-of-nice-subarrays) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Memoization
 |  |
 | ------- |
