@@ -27,6 +27,7 @@
 | [0455-assign-cookies](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0746-min-cost-climbing-stairs) |
@@ -205,6 +206,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0930-binary-subarrays-with-sum) |
