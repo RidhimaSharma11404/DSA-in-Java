@@ -162,6 +162,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0322-coin-change) |
+| [1971-find-if-path-exists-in-graph](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1971-find-if-path-exists-in-graph) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -242,4 +243,16 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
