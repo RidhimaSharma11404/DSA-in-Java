@@ -2,11 +2,8 @@ class Solution {
     public int[][] floodFill(int[][] grid, int sr, int sc, int color) {
 
         int n = grid.length;
-        int m = grid[0].length;
-
+        int m = grid[0].length; 
         int original = grid[sr][sc];
-
-        // Already same color
         if(original == color) {
             return grid;
         }
