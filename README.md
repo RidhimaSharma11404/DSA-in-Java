@@ -27,6 +27,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0695-max-area-of-island) |
@@ -74,6 +75,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -103,6 +105,7 @@
 | [0063-unique-paths-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0994-rotting-oranges) |
@@ -174,6 +177,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0733-flood-fill) |
