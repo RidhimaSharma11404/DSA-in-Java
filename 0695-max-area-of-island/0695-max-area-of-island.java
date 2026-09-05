@@ -12,14 +12,10 @@ class Solution {
             {0,1},
             {0,-1}
         };
-
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < m; j++) {
-
                 if(grid[i][j] == 1) {
-
                     int area = 0;
-
                     Queue<int[]> q = new LinkedList<>();
                     q.add(new int[]{i,j});
 
