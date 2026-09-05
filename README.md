@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0120-triangle) |
@@ -167,6 +168,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0435-non-overlapping-intervals) |
@@ -180,6 +182,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0455-assign-cookies) |
 ## Breadth-First Search
 |  |
