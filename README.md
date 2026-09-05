@@ -23,6 +23,7 @@
 | [0283-move-zeroes](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0455-assign-cookies) |
@@ -73,6 +74,7 @@
 | [0213-house-robber-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0518-coin-change-ii) |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0070-climbing-stairs) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Combinatorics
 |  |
 | ------- |
@@ -106,6 +109,7 @@
 | [0063-unique-paths-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0733-flood-fill) |
@@ -180,6 +184,7 @@
 | [0207-course-schedule](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0695-max-area-of-island) |
@@ -277,6 +282,7 @@
 | [0200-number-of-islands](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0733-flood-fill) |
@@ -294,6 +300,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1971-find-if-path-exists-in-graph) |
@@ -302,11 +309,13 @@
 | ------- |
 | [0207-course-schedule](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
