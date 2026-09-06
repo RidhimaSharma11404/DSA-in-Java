@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0063-unique-paths-ii) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0063-unique-paths-ii) |
@@ -363,4 +365,8 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
