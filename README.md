@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0053-maximum-subarray) |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0179-largest-number) |
@@ -376,4 +378,8 @@
 |  |
 | ------- |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
