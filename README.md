@@ -369,4 +369,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
