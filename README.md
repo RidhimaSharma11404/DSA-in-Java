@@ -162,6 +162,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1048-longest-string-chain) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -382,4 +383,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
