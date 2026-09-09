@@ -415,6 +415,7 @@
 | [1148-article-views-i](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1661-average-time-of-process-per-machine) |
+| [1667-fix-names-in-a-table](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1757-recyclable-and-low-fat-products) |
