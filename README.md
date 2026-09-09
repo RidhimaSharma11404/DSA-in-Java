@@ -59,6 +59,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1710-maximum-units-on-a-truck](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1710-maximum-units-on-a-truck) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3904-smallest-stable-index-ii) |
@@ -110,6 +111,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3871-count-commas-in-range-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Memoization
 |  |
