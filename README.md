@@ -411,6 +411,7 @@
 | [0619-biggest-single-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1068-product-sales-analysis-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1661-average-time-of-process-per-machine) |
