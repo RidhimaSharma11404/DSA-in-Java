@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0053-maximum-subarray) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0455-assign-cookies) |
@@ -191,6 +193,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0242-valid-anagram) |
