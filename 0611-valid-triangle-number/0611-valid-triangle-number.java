@@ -14,11 +14,10 @@ class Solution {
                     i++;
                 }
 
-
             }
-            
-
         }
         return ans;
+
+        
     }
 }
