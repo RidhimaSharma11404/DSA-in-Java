@@ -63,6 +63,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1710-maximum-units-on-a-truck](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1710-maximum-units-on-a-truck) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3903-smallest-stable-index-i) |
@@ -318,6 +319,7 @@
 | [1048-longest-string-chain](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -386,6 +388,7 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -434,4 +437,8 @@
 | [1729-find-followers-count](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
