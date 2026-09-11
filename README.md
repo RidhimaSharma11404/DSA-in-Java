@@ -49,6 +49,7 @@
 | [0881-boats-to-save-people](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1004-max-consecutive-ones-iii) |
@@ -191,6 +192,7 @@
 | [0283-move-zeroes](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1048-longest-string-chain) |
 ## Sorting
 |  |
@@ -204,6 +206,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1029-two-city-scheduling) |
 | [1048-longest-string-chain](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1048-longest-string-chain) |
