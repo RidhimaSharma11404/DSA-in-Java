@@ -60,6 +60,7 @@
 | [1049-last-stone-weight-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1049-last-stone-weight-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1314-matrix-block-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1710-maximum-units-on-a-truck](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1710-maximum-units-on-a-truck) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -139,6 +140,7 @@
 | [0733-flood-fill](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0994-rotting-oranges) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1314-matrix-block-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1314-matrix-block-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -302,6 +304,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1248-count-number-of-nice-subarrays) |
+| [1314-matrix-block-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3904-smallest-stable-index-ii) |
