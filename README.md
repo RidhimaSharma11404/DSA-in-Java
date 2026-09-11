@@ -44,6 +44,7 @@
 | [0695-max-area-of-island](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0724-find-pivot-index](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0860-lemonade-change) |
@@ -304,6 +305,7 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1004-max-consecutive-ones-iii) |
