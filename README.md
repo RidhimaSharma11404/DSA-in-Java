@@ -50,6 +50,7 @@
 | [0881-boats-to-save-people](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0994-rotting-oranges) |
@@ -302,6 +303,7 @@
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1314-matrix-block-sum) |
@@ -318,6 +320,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1248-count-number-of-nice-subarrays) |
