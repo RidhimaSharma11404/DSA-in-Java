@@ -1,15 +1,12 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-
         List<List<Integer>> ans = new ArrayList<>();
-
         int n = nums.length;
 
         Arrays.sort(nums);
 
         for (int i = 0; i < n - 2; i++) {
 
-            // skip duplicate i
             if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
@@ -30,18 +27,16 @@ class Solution {
                 else {
                     ans.add(Arrays.asList(nums[i], nums[j], nums[k]));
 
-                    // skip duplicate j
-                    while (j < k && nums[j] == nums[j + 1]) {
+                    j++;
+                    k--;
+
+                    while (j < k && nums[j] == nums[j - 1]) {
                         j++;
                     }
 
-                    // skip duplicate k
-                    while (j < k && nums[k] == nums[k - 1]) {
+                    while (j < k && nums[k] == nums[k + 1]) {
                         k--;
                     }
-
-                    j++;
-                    k--;
                 }
             }
         }
