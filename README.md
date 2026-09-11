@@ -64,6 +64,7 @@
 | [1314-matrix-block-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1710-maximum-units-on-a-truck](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1710-maximum-units-on-a-truck) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3875-construct-uniform-parity-array-i) |
@@ -108,6 +109,7 @@
 | [1049-last-stone-weight-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1049-last-stone-weight-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Math
 |  |
 | ------- |
