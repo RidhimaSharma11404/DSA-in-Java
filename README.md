@@ -36,6 +36,7 @@
 | [0435-non-overlapping-intervals](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0605-can-place-flowers) |
