@@ -22,6 +22,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0169-majority-element) |
@@ -333,6 +334,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0242-valid-anagram) |
@@ -365,6 +367,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0695-max-area-of-island) |
