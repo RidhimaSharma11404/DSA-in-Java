@@ -16,6 +16,7 @@
 | [0056-merge-intervals](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -203,6 +204,7 @@
 | [0015-3sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0455-assign-cookies) |
@@ -216,6 +218,7 @@
 | [0015-3sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0435-non-overlapping-intervals) |
@@ -232,6 +235,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0455-assign-cookies) |
 ## Breadth-First Search
 |  |
@@ -458,4 +462,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3483-unique-3-digit-even-numbers) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
