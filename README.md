@@ -22,6 +22,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0189-rotate-array) |
@@ -419,6 +420,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0136-single-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Trie
 |  |
