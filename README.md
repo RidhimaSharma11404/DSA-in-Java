@@ -24,6 +24,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0189-rotate-array) |
@@ -219,6 +220,7 @@
 | [0016-3sum-closest](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0435-non-overlapping-intervals) |
@@ -329,6 +331,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0424-longest-repeating-character-replacement) |
@@ -343,6 +346,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0992-subarrays-with-k-different-integers) |
 ## Depth-First Search
 |  |
@@ -421,6 +425,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -466,4 +471,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
