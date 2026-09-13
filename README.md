@@ -25,6 +25,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -208,6 +209,7 @@
 | [0016-3sum-closest](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0455-assign-cookies) |
@@ -299,6 +301,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1004-max-consecutive-ones-iii) |
