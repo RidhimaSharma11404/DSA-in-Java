@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0055-jump-game) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0055-jump-game) |
@@ -211,6 +213,7 @@
 | [0015-3sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0189-rotate-array) |
@@ -282,6 +285,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
@@ -487,4 +491,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
