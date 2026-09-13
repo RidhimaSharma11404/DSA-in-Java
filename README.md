@@ -38,6 +38,7 @@
 | [0198-house-robber](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0283-move-zeroes) |
@@ -242,6 +243,7 @@
 | [0075-sort-colors](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0435-non-overlapping-intervals) |
@@ -359,6 +361,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0560-subarray-sum-equals-k) |
