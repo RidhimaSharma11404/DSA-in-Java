@@ -9,10 +9,9 @@ class Solution {
                 int temp=max;
                 max=min;
                 min=temp;
-
             }
-            max=Math.max(num,max*nums[i]);
-            min=Math.min(num,min*nums[i]);
+            max=Math.max(num,num*max);
+            min=Math.min(num,num*min);
             ans=Math.max(ans,max);
         }
         return ans;
