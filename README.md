@@ -37,6 +37,7 @@
 | [0198-house-robber](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0213-house-robber-ii) |
+| [0274-h-index](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0322-coin-change) |
@@ -238,6 +239,7 @@
 | [0169-majority-element](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0455-assign-cookies) |
@@ -499,4 +501,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0042-trapping-rain-water) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
