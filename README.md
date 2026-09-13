@@ -51,6 +51,7 @@
 | [0485-max-consecutive-ones](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0643-maximum-average-subarray-i) |
@@ -339,6 +340,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0930-binary-subarrays-with-sum) |
@@ -359,6 +361,7 @@
 | [0205-isomorphic-strings](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0974-subarray-sums-divisible-by-k) |
