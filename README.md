@@ -211,6 +211,7 @@
 | [0242-valid-anagram](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0680-valid-palindrome-ii) |
@@ -246,6 +247,7 @@
 | [0189-rotate-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0881-boats-to-save-people) |
@@ -350,6 +352,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0904-fruit-into-baskets) |
@@ -387,6 +390,7 @@
 | [0242-valid-anagram](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0974-subarray-sums-divisible-by-k) |
