@@ -199,6 +199,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0151-reverse-words-in-a-string) |
@@ -231,6 +232,7 @@
 | [0016-3sum-closest](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0075-sort-colors) |
@@ -488,6 +490,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0796-rotate-string) |
 ## Manacher
 |  |
@@ -533,4 +536,16 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0274-h-index) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
