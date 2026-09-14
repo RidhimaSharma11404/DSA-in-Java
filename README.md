@@ -146,6 +146,7 @@
 | [0062-unique-paths](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0189-rotate-array) |
+| [0836-rectangle-overlap](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1903-largest-odd-number-in-string) |
@@ -571,4 +572,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
