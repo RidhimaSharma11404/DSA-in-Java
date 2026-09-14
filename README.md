@@ -200,6 +200,7 @@
 | [0005-longest-palindromic-substring](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0151-reverse-words-in-a-string) |
