@@ -137,6 +137,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0189-rotate-array) |
@@ -198,6 +199,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0058-length-of-last-word) |
@@ -377,6 +379,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0205-isomorphic-strings) |
