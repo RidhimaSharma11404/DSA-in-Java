@@ -71,6 +71,7 @@
 | [0860-lemonade-change](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0977-squares-of-a-sorted-array) |
@@ -259,6 +260,7 @@
 | [0611-valid-triangle-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1048-longest-string-chain) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -280,6 +282,7 @@
 | [0455-assign-cookies](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1029-two-city-scheduling) |
