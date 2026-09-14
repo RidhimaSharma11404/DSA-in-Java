@@ -4,8 +4,10 @@ class Solution {
             char ch=num.charAt(i);
             if((ch-'0')%2==1){
                 return num.substring(0,i+1);
+
             }
         }
         return "";
+        
     }
 }
