@@ -17,6 +17,7 @@
 | [0045-jump-game-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0063-unique-paths-ii) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0200-number-of-islands) |
@@ -482,6 +484,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0054-spiral-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
