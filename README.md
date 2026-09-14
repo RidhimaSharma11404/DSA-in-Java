@@ -215,6 +215,7 @@
 | [1048-longest-string-chain](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1048-longest-string-chain) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1903-largest-odd-number-in-string) |
 ## Longest Common Subsequence
 |  |
@@ -312,11 +313,13 @@
 | [0042-trapping-rain-water](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Timsort
 |  |
 | ------- |
