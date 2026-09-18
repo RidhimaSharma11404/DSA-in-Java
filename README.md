@@ -210,6 +210,7 @@
 | [0013-roman-to-integer](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0115-distinct-subsequences) |
