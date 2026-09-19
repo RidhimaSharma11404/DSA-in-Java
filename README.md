@@ -260,6 +260,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -284,6 +285,7 @@
 | [0217-contains-duplicate](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -592,6 +594,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
@@ -607,4 +610,12 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0973-k-closest-points-to-origin) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
