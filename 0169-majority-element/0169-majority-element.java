@@ -3,20 +3,17 @@ class Solution {
         int count=0;
         int maxcount=0;
         int element=0;
-        
-        for(int i=0;i<nums.length;i++){
+        for(int num:nums){
             if(count==0){
-                element=nums[i];
+                element=num;
             }
-            if(nums[i]==element){
+            if(num==element){
                 count++;
-                maxcount=Math.max(maxcount,count);
             }else{
                 count--;
             }
+            maxcount=Math.max(maxcount,count);
         }
         return element;
-
-        
     }
 }
