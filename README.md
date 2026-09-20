@@ -42,6 +42,7 @@
 | [0189-rotate-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0238-product-of-array-except-self) |
@@ -149,6 +150,7 @@
 | [0062-unique-paths](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0204-count-primes) |
 | [0836-rectangle-overlap](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1248-count-number-of-nice-subarrays) |
@@ -562,6 +564,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bubble Sort
 |  |
@@ -624,4 +627,20 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
