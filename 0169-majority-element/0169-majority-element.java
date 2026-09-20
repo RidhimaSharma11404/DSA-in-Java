@@ -12,7 +12,6 @@ class Solution {
             }else{
                 count--;
             }
-            maxcount=Math.max(maxcount,count);
         }
         return element;
     }
