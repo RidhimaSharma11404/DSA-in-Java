@@ -26,6 +26,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -116,6 +117,7 @@
 | [0072-edit-distance](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
