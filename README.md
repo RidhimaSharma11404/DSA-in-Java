@@ -46,6 +46,7 @@
 | [0213-house-robber-ii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -151,6 +152,7 @@
 | [0070-climbing-stairs](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1248-count-number-of-nice-subarrays) |
@@ -288,6 +290,7 @@
 | [0179-largest-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0347-top-k-frequent-elements) |
@@ -371,6 +374,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1004-max-consecutive-ones-iii) |
@@ -415,6 +419,7 @@
 | [0205-isomorphic-strings](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -524,6 +529,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Trie
 |  |
