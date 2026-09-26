@@ -69,6 +69,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0724-find-pivot-index) |
@@ -380,6 +381,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/RidhimaSharma11404/DSA-in-Java/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
